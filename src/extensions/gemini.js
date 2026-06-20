@@ -1,7 +1,7 @@
 (function (Scratch) {
   'use strict';
 
-  const API_KEY = "AIzaSyA1YBRe_ngDR4OALSrDJHvXAZ9NqGj9ZVM";
+  const API_KEY = "";
   
   let currentPersonality = "You are the latest Gemini Flash 3.5 model that strictly replies in only plain text, not markdown formatting.";
   let currentTemperature = 0.5;
